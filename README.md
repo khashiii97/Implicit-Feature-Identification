@@ -1,7 +1,7 @@
 # Implicit-Feature-Identification
 ## NLP - identifying implicit Persian features of opinions from the SentiPers dataset
 
-This repository hosts an implementation of part of the procedure "Implicit feature identification via co-occurrence association rule mining", as stated in the [original paper](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_31) with the data being obtained from the [SentiPers](https://github.com/phosseini/SentiPers) dataset. To be more precise, two parts of have been implemented:
+This repository hosts an implementation of part of the procedure "Implicit feature identification via co-occurrence association rule mining", as stated in the [original paper](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_31) with the data being obtained from the [SentiPers](https://github.com/phosseini/SentiPers) dataset. To be more precise, two parts of the procedure have been implemented:
 - Mining association rules using the Co-occurence matrix.
 - Creating the contextual feature vectors for clustering, as stated in the paper "Generating a concept hierarchy for sentiment analysis" in [here](https://ieeexplore.ieee.org/abstract/document/4811294/).
 </ul>the results of this two parts are stored in the result directory.
